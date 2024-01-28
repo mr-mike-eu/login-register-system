@@ -8,12 +8,12 @@ The main programming language is python.
 Neither Slovak nor English is used in the programme.
 
 # package
-os
-time
-socket
-random
-unidecode
-re
-string
-sqlite3
-threading
+os,
+time,
+socket,
+random,
+unidecode,
+re,
+string,
+sqlite3,
+threading.
