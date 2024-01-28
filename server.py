@@ -10,7 +10,7 @@ import time
 server_ip = "localhost"
 server_port = 12345
 app_version = "1.0.0"
-app_download = "https://github.com/mr-mike-eu/atomic_private_comunity"
+app_download = "https://github.com/mr-mike-eu/login-register-system"
 sql_path = "sqlite_database.db"
 header_lenght = 9999999999
 
