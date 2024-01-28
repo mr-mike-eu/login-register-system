@@ -16,4 +16,4 @@ unidecode,
 re,
 string,
 sqlite3,
-threading.
+threading
